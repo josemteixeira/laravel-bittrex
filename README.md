@@ -69,6 +69,3 @@ Bittrex::getWithdrawalHistory($currency=null);
 Bittrex::getDepositHistory($currency=null);
 ```
 
-
-Tips are appreciated 
-`1N5ET46r5Z4HdfhRjGMp7SpEMPes9S1H9n`
